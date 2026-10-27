@@ -1,5 +1,7 @@
 # 湖宝 · Live2D 语音聊天助手
 
+完整项目源码与开发分支：[Deng-summer/live2d-voice-assistant](https://github.com/Deng-summer/live2d-voice-assistant)。本仓库保留轻量展示页。
+
 一个以 Live2D 角色为交互入口的语音助手项目。原型结合了唤醒词检测、语音识别、连续对话、流式字幕、语音合成，以及摄像头表情识别探索。
 
 ![湖宝对话场景示意](./湖宝-对话场景示意.png)
